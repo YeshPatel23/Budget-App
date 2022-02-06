@@ -103,7 +103,7 @@ th {
 }
 
 tr:hover {
-  background-color: #eee;
+  background-color: orange;
   cursor: pointer;
 }
 
